@@ -1,0 +1,448 @@
+{
+    "BA": {
+        "chat_gpt": "Boeing, while known for commercial planes, also has a significant defense segment that could benefit from increased military spending.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://money.cnn.com/pf/features/lists/warstocks/",
+                "title": "CNN/Money: The War Stocks - Business",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.investopedia.com/solving-the-war-puzzle-4780889",
+                "title": "How War Affects the Modern Stock Market - Investopedia",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://bullishbears.com/war-stocks/",
+                "title": "War Stocks List - Best Companies to Trade",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/staffpro11/status/1782031363765424184",
+                "text": "id be willing to wager you can predict the end of the war with $RTX $LMT $GD $BA technical/fundamental analysis once incremental growth ends (these bullshit spending bills have a limit and marginal utility) if they don't rally tomorrow this could be it ... https://t.co/Gt97EKrcgi",
+                "username": "staffpro11",
+                "user_url": "https://twitter.com/staffpro11",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1540984320336269312/7Fg6XfAM_normal.jpg",
+                "date": "2024-04-21T12:59:20Z"
+            },
+            {
+                "url": "https://twitter.com/jrouldz/status/1779310117009129877",
+                "text": "@torovictorioso bullish on war stocks?\n$LMT $RTX $BA $NOC\n\nOr maybe there's a better way to play it in $PLTR \ud83e\udd14",
+                "username": "jrouldz",
+                "user_url": "https://twitter.com/jrouldz",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1722798570489659392/-VMVAyc6_normal.jpg",
+                "date": "2024-04-14T00:46:04Z"
+            },
+            {
+                "url": "https://twitter.com/ccioli90/status/1784789051368730962",
+                "text": "$DFEN $LMT $RTX $NOC $BA defense sector advance is only beginning IMO https://t.co/6vKfQZJGc4",
+                "username": "ccioli90",
+                "user_url": "https://twitter.com/ccioli90",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1776326887242973184/fhvacKoN_normal.jpg",
+                "date": "2024-04-29T03:37:24Z"
+            }
+        ]
+    },
+    "CAE": {
+        "chat_gpt": "CAE Inc. offers simulation technologies and training services for defense forces, likely to see higher demand for military preparedness.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": []
+    },
+    "CW": {
+        "chat_gpt": "Curtiss-Wright provides high-tech components for defense markets, likely to benefit from increased military spending.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": []
+    },
+    "GD": {
+        "chat_gpt": "General Dynamics offers a range of defense products and services, likely to see demand rise with military buildups.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://money.cnn.com/pf/features/lists/warstocks/",
+                "title": "CNN/Money: The War Stocks - Business",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://bullishbears.com/war-stocks/",
+                "title": "War Stocks List - Best Companies to Trade",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/industrials/defense-stocks/",
+                "title": "Best Defense Stocks for 2024: Defense Investing 101",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/cdntradegrljenn/status/1779288173497168263",
+                "text": "Defence sector stocks are bullish for now\u2026 Which ones are you watching? \n\n1. Northrop Grumman Corporation\n(NYSE: $NOC)\n2. General Dynamics Corporation\n(NYSE: $GD)\n3. Lockheed Martin (NYSE: $LMT)\n4. Raytheon Technologies (NYSE: $RTX) https://t.co/4pe7EbXOpb",
+                "username": "cdntradegrljenn",
+                "user_url": "https://twitter.com/cdntradegrljenn",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1728501110380679168/H9A_ooHU_normal.jpg",
+                "date": "2024-04-13T23:18:52Z"
+            },
+            {
+                "url": "https://twitter.com/DLeyguarda/status/1779496930197786690",
+                "text": "Espero, al menos por parte de los que me siguen.\nQue el Lunes, en caso de ver alza importante en el sector de armas $LMT $GD $RTX.\n\nNo vayan corriendo a comprar dichas empresas... https://t.co/JcIlGBvlZL",
+                "username": "DLeyguarda",
+                "user_url": "https://twitter.com/DLeyguarda",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1674478377896386563/1KtwYSBA_normal.jpg",
+                "date": "2024-04-14T13:08:24Z"
+            },
+            {
+                "url": "https://twitter.com/staffpro11/status/1782031363765424184",
+                "text": "id be willing to wager you can predict the end of the war with $RTX $LMT $GD $BA technical/fundamental analysis once incremental growth ends (these bullshit spending bills have a limit and marginal utility) if they don't rally tomorrow this could be it ... https://t.co/Gt97EKrcgi",
+                "username": "staffpro11",
+                "user_url": "https://twitter.com/staffpro11",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1540984320336269312/7Fg6XfAM_normal.jpg",
+                "date": "2024-04-21T12:59:20Z"
+            }
+        ]
+    },
+    "HEI": {
+        "chat_gpt": "Heico Corporation provides aerospace and electronics products, likely to see increased sales with defense sector growth.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": []
+    },
+    "HII": {
+        "chat_gpt": "Huntington Ingalls Industries, as a major shipbuilding company, would benefit from naval expansion efforts.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.forbes.com/uk/advisor/investing/best-defence-stocks/",
+                "title": "Our Pick Of The Best Defence Industry Stocks - Investing",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.dividend.com/aerospace-and-defense-industry-dividend-stocks-etfs-and-funds/",
+                "title": "Aerospace & Defense Dividend Stocks, ETFs, Funds",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.cnbc.com/2023/12/01/op-ed-war-is-a-good-time-for-investors-to-load-up-on-defense-stock.html",
+                "title": "War is a good time for investors to load up on defense stock",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "KTOS": {
+        "chat_gpt": "Kratos Defense & Security Solutions offers unmanned systems and satellite communications, relevant for modern warfare.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": []
+    },
+    "LHX": {
+        "chat_gpt": "L3Harris Technologies provides advanced defense communications and electronic systems, likely to see increased demand.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.forbes.com/sites/brettowens/2024/04/18/top-dividend-stocks-that-rise-during-war/",
+                "title": "Top Dividend Stocks That Rise During War",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/MySpacelylife/status/1780180624990515289",
+                "text": "War/ Defense stocks to watch \n$LMT\n$RTX\n$LHX\n$GD\n$NOC\n$KTOS",
+                "username": "MySpacelylife",
+                "user_url": "https://twitter.com/MySpacelylife",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1779498964275896320/Ub6zhfml_normal.jpg",
+                "date": "2024-04-16T10:25:09Z"
+            },
+            {
+                "url": "https://twitter.com/vikingfund/status/1780196208109056356",
+                "text": "$LHX suddenly lays of workers. This isn't good. If the military industrial complex has to lay off during war time then you know the  economy is getting weak. $NOC $LMT $GD\n\nhttps://t.co/X4VM82Hy9V",
+                "username": "vikingfund",
+                "user_url": "https://twitter.com/vikingfund",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1767007767003353088/47aSPWHd_normal.jpg",
+                "date": "2024-04-16T11:27:05Z"
+            },
+            {
+                "url": "https://twitter.com/jika_io/status/1782456488520290343",
+                "text": "This week, most of the S&amp;P 500 companies reporting fall within the Industrials sector. $SPX $SPY $XLI\n\n$UPS $LMT $BA $GE $RTX $AAL $CAT $LUV $GD $ODFL $NOC $LHX $URI $WM $AOS $CARR $HON $TXT $UNP $NSC $OTIS $VLTO $IEX $MAS $WAB $PNR $GEV $FTV $DOV $ALLE $GWW $RHI $ROL",
+                "username": "jika_io",
+                "user_url": "https://twitter.com/jika_io",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1587747967120941056/aQs7fTmF_normal.jpg",
+                "date": "2024-04-22T17:08:37Z"
+            }
+        ]
+    },
+    "LMT": {
+        "chat_gpt": "Lockheed Martin is a leading defense contractor, likely to see increased orders for military hardware.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://money.cnn.com/pf/features/lists/warstocks/",
+                "title": "CNN/Money: The War Stocks - Business",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.investopedia.com/solving-the-war-puzzle-4780889",
+                "title": "How War Affects the Modern Stock Market - Investopedia",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://bullishbears.com/war-stocks/",
+                "title": "War Stocks List - Best Companies to Trade",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/PelosiTracker_/status/1779919001797472652",
+                "text": "In what world should Politicians be allowed to own stocks that benefit from war\n\nAfter Iran's bombing of Israel, we found they own stock in two of the two largest defense companies in the world\n\n~$1.1M of Raytheon Technologies $RTX\n~600K of Lockheed Martin $LMT\n\nIt's not right.",
+                "username": "PelosiTracker_",
+                "user_url": "https://twitter.com/PelosiTracker_",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1540038746149572608/3DXTyIR6_normal.jpg",
+                "date": "2024-04-15T17:05:33Z"
+            },
+            {
+                "url": "https://twitter.com/TrackInsiders_/status/1779891109344247861",
+                "text": "\ud83d\udea8This is never a good sign\n\nRep. Kevin Hern has bought shares of Lockheed Martin $LMT - a company that directly benefits from war\n\nUh oh https://t.co/ru4HYT5YV2",
+                "username": "TrackInsiders_",
+                "user_url": "https://twitter.com/TrackInsiders_",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1724283433059262464/SYzzC176_normal.jpg",
+                "date": "2024-04-15T15:14:43Z"
+            },
+            {
+                "url": "https://twitter.com/TrackInsiders_/status/1781398007792931327",
+                "text": "Rep. Kevin Hern bought war stock Lockheed Martin less than a month ago\n\nSince then, $LMT is already up nearly 10%, has won a $17 billion US defense contract, and is in the spotlight with recent Iran war scares\n\nSomehow, this is all legal https://t.co/xKHSdTIKuA",
+                "username": "TrackInsiders_",
+                "user_url": "https://twitter.com/TrackInsiders_",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1724283433059262464/SYzzC176_normal.jpg",
+                "date": "2024-04-19T19:02:36Z"
+            }
+        ]
+    },
+    "MRCY": {
+        "chat_gpt": "Mercury Systems offers processing systems and software for defense applications, standing to gain from tech-focused defense upgrades.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": []
+    },
+    "NOC": {
+        "chat_gpt": "Northrop Grumman specializes in aerospace and defense technology, standing to gain from increased defense budgets.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://money.cnn.com/pf/features/lists/warstocks/",
+                "title": "CNN/Money: The War Stocks - Business",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://bullishbears.com/war-stocks/",
+                "title": "War Stocks List - Best Companies to Trade",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/industrials/defense-stocks/",
+                "title": "Best Defense Stocks for 2024: Defense Investing 101",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/cdntradegrljenn/status/1779288173497168263",
+                "text": "Defence sector stocks are bullish for now\u2026 Which ones are you watching? \n\n1. Northrop Grumman Corporation\n(NYSE: $NOC)\n2. General Dynamics Corporation\n(NYSE: $GD)\n3. Lockheed Martin (NYSE: $LMT)\n4. Raytheon Technologies (NYSE: $RTX) https://t.co/4pe7EbXOpb",
+                "username": "cdntradegrljenn",
+                "user_url": "https://twitter.com/cdntradegrljenn",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1728501110380679168/H9A_ooHU_normal.jpg",
+                "date": "2024-04-13T23:18:52Z"
+            },
+            {
+                "url": "https://twitter.com/CorneliaLake/status/1782799046131831082",
+                "text": "You should give the portion of your retirement plan that is the excess profits from war investments to the people of Gaza.  $LMT and $NOC have been very profitable investments and the proceeds can be used to help people in need.  About 5% of your annual pension payout should cover it.",
+                "username": "CorneliaLake",
+                "user_url": "https://twitter.com/CorneliaLake",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1734014232151064577/uH2JWdO8_normal.jpg",
+                "date": "2024-04-23T15:49:50Z"
+            },
+            {
+                "url": "https://twitter.com/TannersTrades/status/1779573803749699831",
+                "text": "My weekly Writeup is live in my bio: \n\nWar, Oil, Metals, Semiconductors. \n\n$NVDA $ARM $VRT $AAPL $NOC $LMT $SPY $SPX $QQQ https://t.co/edmpeSb016",
+                "username": "TannersTrades",
+                "user_url": "https://twitter.com/TannersTrades",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1718021021029027840/-KSIlIDo_normal.jpg",
+                "date": "2024-04-14T18:13:52Z"
+            }
+        ]
+    },
+    "OSK": {
+        "chat_gpt": "Oshkosh Corporation manufactures military vehicles and could see increased orders as nations bolster their ground forces.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": []
+    },
+    "RTX": {
+        "chat_gpt": "Raytheon Technologies provides advanced defense systems and could benefit from heightened military spending.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.investopedia.com/solving-the-war-puzzle-4780889",
+                "title": "How War Affects the Modern Stock Market - Investopedia",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/industrials/defense-stocks/",
+                "title": "Best Defense Stocks for 2024: Defense Investing 101",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://businessjournalism.org/2023/12/war-profit/",
+                "title": "How U.S. businesses profit from war worldwide",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/PelosiTracker_/status/1779919001797472652",
+                "text": "In what world should Politicians be allowed to own stocks that benefit from war\n\nAfter Iran's bombing of Israel, we found they own stock in two of the two largest defense companies in the world\n\n~$1.1M of Raytheon Technologies $RTX\n~600K of Lockheed Martin $LMT\n\nIt's not right.",
+                "username": "PelosiTracker_",
+                "user_url": "https://twitter.com/PelosiTracker_",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1540038746149572608/3DXTyIR6_normal.jpg",
+                "date": "2024-04-15T17:05:33Z"
+            },
+            {
+                "url": "https://twitter.com/congresstrading/status/1779908129922121809",
+                "text": "Congressman Hern disclosed today that he is betting on \"war through weakness\" in his stock portfolio with purchases of defense contractors Lockheed Martin $LMT and Raytheon $RTX last month. See attached. https://t.co/9iGiTAEnW0",
+                "username": "congresstrading",
+                "user_url": "https://twitter.com/congresstrading",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1485644128146833417/IfNUkyQd_normal.jpg",
+                "date": "2024-04-15T16:22:21Z"
+            },
+            {
+                "url": "https://twitter.com/cdntradegrljenn/status/1779288173497168263",
+                "text": "Defence sector stocks are bullish for now\u2026 Which ones are you watching? \n\n1. Northrop Grumman Corporation\n(NYSE: $NOC)\n2. General Dynamics Corporation\n(NYSE: $GD)\n3. Lockheed Martin (NYSE: $LMT)\n4. Raytheon Technologies (NYSE: $RTX) https://t.co/4pe7EbXOpb",
+                "username": "cdntradegrljenn",
+                "user_url": "https://twitter.com/cdntradegrljenn",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1728501110380679168/H9A_ooHU_normal.jpg",
+                "date": "2024-04-13T23:18:52Z"
+            }
+        ]
+    },
+    "TDG": {
+        "chat_gpt": "TransDigm Group manufactures aerospace components, potentially benefiting from increased production of military aircraft.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": []
+    },
+    "TXT": {
+        "chat_gpt": "Textron is involved in aircraft, defense, and industrial products, with potential gains from increased defense spending.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://altindex.com/best-stocks/defense",
+                "title": "Best Defense Stocks to buy now May 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.dividend.com/aerospace-and-defense-industry-dividend-stocks-etfs-and-funds/",
+                "title": "Aerospace & Defense Dividend Stocks, ETFs, Funds",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [
+            {
+                "url": "https://twitter.com/jika_io/status/1782456488520290343",
+                "text": "This week, most of the S&amp;P 500 companies reporting fall within the Industrials sector. $SPX $SPY $XLI\n\n$UPS $LMT $BA $GE $RTX $AAL $CAT $LUV $GD $ODFL $NOC $LHX $URI $WM $AOS $CARR $HON $TXT $UNP $NSC $OTIS $VLTO $IEX $MAS $WAB $PNR $GEV $FTV $DOV $ALLE $GWW $RHI $ROL",
+                "username": "jika_io",
+                "user_url": "https://twitter.com/jika_io",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1587747967120941056/aQs7fTmF_normal.jpg",
+                "date": "2024-04-22T17:08:37Z"
+            },
+            {
+                "url": "https://twitter.com/hoodcertifiedtm/status/1779388899611058256",
+                "text": "TOP 10 #War #Stocks pick: 1. $LMT 2. $NOC 3. $TDG 4. $LHX  5. $HWM 6. $TXT 7. $CW 8. $CAE 9. $JOBY 10. $WWD \n\n#Wallstreet #stockmarket #israel #iran #gaza #MiddleEast #MiddleEastConflict \n\nPersonally and morally I stay out of those stocks. But for yall that dgaf enjoy the list.",
+                "username": "hoodcertifiedtm",
+                "user_url": "https://twitter.com/hoodcertifiedtm",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1699647502805237760/o4-x0XNz_normal.jpg",
+                "date": "2024-04-14T05:59:07Z"
+            }
+        ]
+    },
+    "LUV": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/think_sabio/status/1781029601113968887",
+                "text": "#ThinkSabio #Trendingstock $SPX $SPY $XBI $QQQ $IWM #Markets \n\nThe Below companies in the industrial sector have been experiencing upward trends over the past three days. \n$LMT $LUV $CXT $DRS $VVX $GOGL $PFMT $AIRI \n\nAre you interested in discovering which companies have shown upward movement in all the sectors over the past week or even the past 10 days? Join us at https://t.co/htNmsND8WQ to delve into these insightful reports and much more!!",
+                "username": "think_sabio",
+                "user_url": "https://twitter.com/think_sabio",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1477659862901276674/ijWHEn3N_normal.jpg",
+                "date": "2024-04-18T18:38:41Z"
+            },
+            {
+                "url": "https://twitter.com/jika_io/status/1782456488520290343",
+                "text": "This week, most of the S&amp;P 500 companies reporting fall within the Industrials sector. $SPX $SPY $XLI\n\n$UPS $LMT $BA $GE $RTX $AAL $CAT $LUV $GD $ODFL $NOC $LHX $URI $WM $AOS $CARR $HON $TXT $UNP $NSC $OTIS $VLTO $IEX $MAS $WAB $PNR $GEV $FTV $DOV $ALLE $GWW $RHI $ROL",
+                "username": "jika_io",
+                "user_url": "https://twitter.com/jika_io",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1587747967120941056/aQs7fTmF_normal.jpg",
+                "date": "2024-04-22T17:08:37Z"
+            }
+        ]
+    },
+    "HWM": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.cnbc.com/2023/12/01/op-ed-war-is-a-good-time-for-investors-to-load-up-on-defense-stock.html",
+                "title": "War is a good time for investors to load up on defense stock",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "LDOS": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/industrials/defense-stocks/",
+                "title": "Best Defense Stocks for 2024: Defense Investing 101",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://altindex.com/best-stocks/defense",
+                "title": "Best Defense Stocks to buy now May 2024",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "PFE": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.morningstar.com/stocks/best-defensive-stocks-buy",
+                "title": "The Best Defensive Stocks to Buy | Morningstar",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    },
+    "PG": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.investopedia.com/terms/d/defensivestock.asp",
+                "title": "Understanding Defensive Stocks, Pros & Cons, and ...",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": []
+    }
+}
