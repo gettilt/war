@@ -76,6 +76,7 @@ with open('theme.csv') as file:
 | LUV |  | twitter |
 | HWM |  | google |
 | LDOS |  | google |
+| ACHR |  | expert |
 <!--[[[end]]]-->
 
 ## License
